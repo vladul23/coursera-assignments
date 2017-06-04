@@ -29,15 +29,17 @@ h1 {
     float: right;
     width: 130px;
     height: 30px;
-    position: rel/*ative;
+/*    position: relative;
     top: 0px;
-    left: 0px;*/
+    right: 0px;*/
+    /*display: flex;*/
 }
 
 #box-title1 {
     background-color: #D59898
 }
 #box-title2 {
+    color: white;
     background-color: #C14543   
 }
 #box-title3 {
