@@ -37,8 +37,7 @@
 
 #nav-list a {
 	color: black;
-	font-weight: 0;
-	text-align: center;
+	font-weight: bold;
 	background: white;
 	border-style: solid;
 	border-color: black;
