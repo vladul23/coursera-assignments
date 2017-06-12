@@ -49,9 +49,11 @@
 	background: #999999;
 	color: black;
 	height: 1000px;
-	padding: 1px 10px 10px 10px;
-	/*border: 1px solid red;*/
+	padding: 5px 20px 20px 20px;
 }
+/*#section-chicken p {
+	padding: 0px 10px 0px 10px;
+}*/
 
 /********** Large & medium devices only **********/
 @media (min-width: 992px) {
